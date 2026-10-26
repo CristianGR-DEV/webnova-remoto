@@ -7,6 +7,7 @@
 * Crea un archivo llamado equipo.md con el siguiente contenido:
     ![alt text](./Imagenes/3.png)
 * Haz tu primer commit local:
+
     ![alt text](./Imagenes/15.png)
 * Ve a tu cuenta de GitHub y crea un nuevo repositorio vacío llamado webnova-remoto (sin README ni .gitignore).
     ![alt text](./Imagenes/4.png)
