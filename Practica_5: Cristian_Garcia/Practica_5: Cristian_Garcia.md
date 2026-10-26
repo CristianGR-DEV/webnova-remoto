@@ -21,6 +21,7 @@
 * Añade una nueva línea al final del archivo simulando el trabajo de tu compañero:
 
 * Haz clic en el botón verde Commit changes..., ponle el mensaje "C2: Añadido Frontend Developer" y confirma. ¡El repositorio remoto acaba de actualizarse!
+  
     ![alt text](./Imagenes/6.png)
 
 ## Fase 3: Tu Trabajo Local (El Choque de Realidad)
@@ -54,6 +55,7 @@ git pull --rebase
 * Guarda el archivo, indícale a Git que lo has resuelto y continúa el proceso:
 
 * Bash
+  
     ![alt text](./Imagenes/11.png)
 * Una vez finalizado el rescate con éxito, sube el código definitivo a GitHub:
     ![alt text](./Imagenes/12.png)
