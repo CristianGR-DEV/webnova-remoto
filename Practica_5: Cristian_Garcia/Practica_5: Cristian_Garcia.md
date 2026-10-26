@@ -37,7 +37,9 @@ git commit -a -m "C3: Añadido Backend Developer"
 
 ### Tarea 1: Git te bloqueará con un mensaje de error rojo. Lee atentamente la salida de la terminal. ¿Qué palabra clave usa Git para denegar la subida? ¿Qué te sugiere hacer en las líneas de hint:?
 
+>Utiliza la palabra clave rejected para decir que rechaza la subida de los cambio al repositorio.
 
+>El mensaja dice asi: Las actualizaciones fueron rechazadas porque el repositorio remoto contiene trabajo que no tienes localmente. Esto generalmente se debe a que otro repositorio está enviando a la misma referencia. Si quieres integrar los cambios remotos, usa 'git pull' antes de volver a enviar.
 
 
 
@@ -58,7 +60,9 @@ git pull --rebase
   
     ![alt text](./Imagenes/11.png)
 * Una vez finalizado el rescate con éxito, sube el código definitivo a GitHub:
+### Tarea 2: Ve a GitHub, recarga la página y comprueba que el archivo muestra a los tres miembros del equipo y que el historial de commits está limpio.
+
+Aquí estan:
     ![alt text](./Imagenes/12.png)
     ![alt text](./Imagenes/13.png)
 
-### Tarea 2: Ve a GitHub, recarga la página y comprueba que el archivo muestra a los tres miembros del equipo y que el historial de commits está limpio.
